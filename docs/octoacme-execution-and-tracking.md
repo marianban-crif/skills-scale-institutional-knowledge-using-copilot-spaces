@@ -34,7 +34,22 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 3: Sponsor-level escalation for business-impacting issues
 
 ## Execution Checklist
-- [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Branching and PR conventions documented in repo (Developers + Project Manager)
+- [ ] CI configured for tests, lint, and security scanning (Developers + Security Lead)
+- [ ] Regular demos scheduled (Scrum Master)
+- [ ] UX design reviews scheduled for implementation validation (UX Designer)
+- [ ] Documentation updates tracked as part of Definition of Done (Technical Writer)
+- [ ] Support team knowledge base articles drafted for new features (Customer Support Representative)
+- [ ] Security reviews scheduled for security-sensitive features (Security Lead)
+- [ ] Risk register updated weekly (Project Manager + Scrum Master)
+- [ ] Sprint retrospectives conducted with action items (Scrum Master)
+
+## Role-Specific Execution Responsibilities
+- **Scrum Master**: Facilitates ceremonies, removes blockers, tracks team velocity
+- **Developers**: Implements features, writes tests, reviews PRs, documents code
+- **UX Designer**: Reviews implementations, conducts usability testing, iterates designs
+- **Security Lead**: Reviews code for vulnerabilities, monitors security scans
+- **Technical Writer**: Updates documentation concurrently with feature development
+- **Customer Support**: Prepares support materials, tests customer-facing changes
+- **Product Manager**: Validates acceptance criteria, adjusts priorities based on feedback
+- **Project Manager**: Tracks milestones, manages dependencies, reports status
