@@ -30,11 +30,24 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Proposed team / roles:
 
 ## Initiation Checklist
-- [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
-- [ ] Decision: Approve to move into planning?
-- [ ] Create repo or project board skeleton
-- [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] One-pager completed and reviewed by Product Lead (Product Manager)
+- [ ] Initial security and compliance requirements identified (Security Lead)
+- [ ] UX research needs identified for user-facing features (UX Designer)
+- [ ] Documentation scope and requirements outlined (Technical Writer)
+- [ ] Support readiness requirements identified (Customer Support Representative)
+- [ ] Sponsor / Stakeholder alignment (email or meeting) (Project Manager)
+- [ ] Scrum Master assigned to establish team rhythm
+- [ ] Decision: Approve to move into planning? (Product Manager + Project Manager)
+- [ ] Create repo or project board skeleton (Developer + Project Manager)
+- [ ] Add initial artifacts to repo (docs/ or .copilot/) (Project Manager)
+
+## Role-Specific Handoff Points
+### Initiation → Planning Phase
+- **Product Manager** hands off: Validated one-pager and stakeholder commitments
+- **Security Lead** hands off: Initial threat assessment and compliance checklist
+- **UX Designer** hands off: Research plan or existing user insights
+- **Technical Writer** hands off: Documentation requirements and timeline estimate
+- **Project Manager** hands off: Resource commitments and milestone framework
 
 ## Decision Gate
 Move to planning when:
